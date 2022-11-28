@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113695532512",
+    "project_id": "chatting-friend-617de",
+    "storage_bucket": "chatting-friend-617de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113695532512:android:4a7cce2392bc91ef747785",
+        "android_client_info": {
+          "package_name": "com.shivamtiwari.chattingfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113695532512-5tgd3cclcc37rii8l4k2d0o4edkevt0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjII6gBZlkn_wtLg0fg8fOjoDP6-sO6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113695532512-5tgd3cclcc37rii8l4k2d0o4edkevt0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
